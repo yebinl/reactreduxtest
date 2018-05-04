@@ -1,3 +1,6 @@
+## This is react redux test app
+It covers most of the common react syntax and usage (state, props, route, virtual DOM). It also covers basic redux usage (storage, reducer, route).
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
